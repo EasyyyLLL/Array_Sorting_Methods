@@ -1,3 +1,4 @@
+package 快速排序.java_code;
 import java.util.ArrayList;
 import java.util.StringJoiner;
 
@@ -79,3 +80,4 @@ public class QuickSort {
         System.out.println(sj.toString());
     }
 }
+

@@ -1,3 +1,4 @@
+package 快速排序.java_code;
 import java.util.StringJoiner;
 
 public class QuickSortInplace {
@@ -53,3 +54,4 @@ public class QuickSortInplace {
         System.out.println(sj.toString());
     }
 }
+
